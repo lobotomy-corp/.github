@@ -1,1 +1,1 @@
-<h1 alinght="center">Hello, we are SDD!</h1>
+<h1 align="center">Hello, we are SDD!</h1>
