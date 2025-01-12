@@ -27,5 +27,5 @@ Accord-F
 
 <h3>Our projects: </h3>
 <ul>
-  <li><p>SDF-Mini<a href="https://github.com/lobotomy-corp/sdf-mini"></a></p></li>
+  <li><a href="https://github.com/lobotomy-corp/sdf-mini"><p>SDF-Mini</p></a></li>
 </ul>
