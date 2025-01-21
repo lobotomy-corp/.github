@@ -3,14 +3,14 @@
 <img src="https://komarev.com/ghpvc/?username=lobotomy-corp&label=Profile%20views&color=fc7005&style=flat"/>
 <h3 align="left">About:</h3>
 <p align="left">A team of indie developers from St. Petersburg(Founding date: June 13, 2024)</p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 
 <a href="https://t.me/pr_cmc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="pr-cmc" height="50" width="50" /></a>
 PR
 </p><p align="left">
 
-<a href="https://t.me/pr_cmc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="pr-cmc" height="50" width="50" /></a>
+<a href="Accord_Fmajor" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="pr-cmc" height="50" width="50" /></a>
 Accord-F
 </p>
 
